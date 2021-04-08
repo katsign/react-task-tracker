@@ -6,17 +6,21 @@
 
 - [Description](#description)
 - [Screenshots](#screenshots)
-- [Questions](#questions)
+- [Contact](#contact)
 
 ## *Description*
 
-Check out the tutorial's [GitHub repo](https://github.com/bradtraversy/react-crash-2021)/[YouTube walkthrough](https://youtu.be/w7ejDZ8SWv8), and view my [deployed version](path).
+Check out the [GitHub repo](https://github.com/bradtraversy/react-crash-2021) and [YouTube walkthrough](https://youtu.be/w7ejDZ8SWv8) from developer Brad Traversy, and view my [deployed demo](path).
 
 ## *Screenshots*
 
-![Demo](/public/tt.PNG)
+![Landing Demo](/public/tt.PNG)
+![Add Task Demo](/public/add.PNG)
 
 ## *Questions?*
+
+![Email Badge](https://img.shields.io/badge/Email%20Me-mailtokatsign%40gmail.com-d8bfd8)
+
 Links in Bio @[katsign](https://github.com/katsign)
 
 ---
