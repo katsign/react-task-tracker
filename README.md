@@ -14,7 +14,7 @@ Check out the tutorial's [GitHub repo](https://github.com/bradtraversy/react-cra
 
 ## *Screenshots*
 
-![Demo](path)
+![Demo](/public/tt.PNG)
 
 ## *Questions?*
 Links in Bio @[katsign](https://github.com/katsign)
