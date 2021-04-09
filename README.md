@@ -17,7 +17,7 @@ Check out the [GitHub repo](https://github.com/bradtraversy/react-crash-2021) an
 ![Landing Demo](/public/tt.PNG)
 ![Add Task Demo](/public/add.PNG)
 
-## *Questions?*
+## *Contact*
 
 ![Email Badge](https://img.shields.io/badge/Email%20Me-mailtokatsign%40gmail.com-d8bfd8)
 
