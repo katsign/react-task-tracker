@@ -5,12 +5,21 @@
 ## *Table of Contents*
 
 - [Description](#description)
+- [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contact](#contact)
 
 ## *Description*
 
-Check out the [GitHub repo](https://github.com/bradtraversy/react-crash-2021) and [YouTube walkthrough](https://youtu.be/w7ejDZ8SWv8) from developer Brad Traversy, and view my [deployed demo](path).
+Check out the [GitHub repo](https://github.com/bradtraversy/react-crash-2021) and [YouTube walkthrough](https://youtu.be/w7ejDZ8SWv8) from developer Brad Traversy, and view my [deployed demo](https://katsign.github.io/react-task-tracker/).
+
+## *Usage*
+
+- Click the `Add` and `Close` buttons to toggle the input form.
+- Double-click entries to add or remove a reminder.
+- Click the `x` to remove tasks.
+
+This app doesn't have a backend, so when the page is refreshed it returns to the default state with hard-coded entries.
 
 ## *Screenshots*
 
