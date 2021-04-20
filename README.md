@@ -1,6 +1,11 @@
-# React Task Tracker
+<div align="center">
+
+# React Task Tracker 🌟
 
 ### A take on a task tracking app using components, state, props and hooks in React.js.
+
+#### 📍 [View Deployment on GitHub Pages](https://katsign.github.io/react-task-tracker/) 📍
+</div>
 
 ## *Table of Contents*
 
