@@ -33,9 +33,9 @@ This app doesn't have a backend, so when the page is refreshed it returns to the
 
 ## *Contact*
 
-![Email Badge](https://img.shields.io/badge/Email%20Me-mailtokatsign%40gmail.com-d8bfd8)
-
 Links in Bio @[katsign](https://github.com/katsign)
+
+![Email Badge](https://img.shields.io/badge/Email%20Me-mailtokatsign%40gmail.com-d8bfd8)
 
 ---
 &copy; 2021
